@@ -1,6 +1,8 @@
 # 75.12-AnalisisNumerico-Tarela
 
-Trabajos Prácticos y Finales Resueltos Cátedra Tarela.
+Trabajos Prácticos y Finales Resueltos 
+
+Cátedra Tarela.
 
 Trabajo práctico N°1: Calificacion 10.
 
