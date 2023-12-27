@@ -15,3 +15,5 @@ Temas que se ven en la cátedra para el final (Por lo menos cuando la rendí 2C2
 - Ajuste
 - Interpolación
 - Integración (Método de Rectángulo, Trapecio, Simpsons, Cuadratura de Gauss)
+
+El PDF al final contiene el examen tomado en la primera mesa de diciembre 2023.
